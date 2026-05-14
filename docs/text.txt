@@ -1,0 +1,1021 @@
+What is Quality assurance (QA)?	
+A	Perceptual, conditional, and somewhat subjective attributes, and may be understood differently by different people.
+B	Any systematic process of checking to see whether a product or service being developed is meeting specified requirements
+C	Is a process of executing a program or application with the intent of finding software bugs
+D	Nothing above
+	
+Correct Answer	
+	B. Any systematic process of checking to see whether a product or service being developed is meeting specified requirements
+Explanation	
+	Quality assurance (QA) is a systematic process of checking to see whether a product or service being developed is meeting specified requirements. It involves conducting various tests and evaluations to ensure that the product or service meets the desired quality standards. QA is important to identify any defects or issues in the development process and rectify them before the final product is released to the market. It helps in ensuring customer satisfaction and maintaining the reputation of the organization.
+	
+	
+What is Software Testing?	
+A.	A process of executing a program or application with the intent of finding software bugs
+B.	A process of evaluating a system by manual or automatic means and verifying that it satisfies specified requirements or identity differences between expected and actual results.
+C.	Any activity aimed at evaluating an attribute or capability of a program or system and determining that it meets its required results
+D.	All above
+Correct Answer	
+	D. All above
+Explanation	
+	The correct answer is "All above" because software testing encompasses all the options mentioned. It is a process of executing a program or application to find bugs, evaluating a system to verify if it meets specified requirements, and determining if a program or system meets its required results. Therefore, all the given options are valid explanations for software testing.
+	
+	
+Impact Analysis helps to decide:	
+A.	Different Tools to perform Regression Testing
+B.	Exit Criteria
+C.	How many more test cases need to be written?
+D.	How much regression testing should be done?
+	
+Correct Answer	
+	D. How much regression testing should be done?
+Explanation	
+	Impact Analysis helps to determine how much regression testing should be done. It involves identifying the areas of the software that are likely to be affected by changes or updates and evaluating the potential impact on the existing functionality. By analyzing the impact, testers can prioritize the areas that require more extensive regression testing and allocate appropriate resources and time. This ensures that the right amount of regression testing is performed, focusing on the critical areas and reducing the risk of introducing new defects.
+	
+	
+Unreachable code would best be found using:	
+A.	Code reviews
+B.	Code inspections
+C.	A coverage tool
+D.	A static analysis tool
+	
+Correct Answer	
+	A. Code reviews
+Explanation	
+	Code reviews would be the best way to find unreachable code because during code reviews, other developers can analyze the code and identify any sections that are not being executed or are unreachable. This can be done by reviewing the logic of the code, checking for any conditional statements or loops that may prevent certain sections from being reached, and identifying any dead code or redundant statements. Code inspections, coverage tools, and static analysis tools may also help in detecting unreachable code, but they may not provide the same level of understanding and context as a thorough code review by experienced developers.
+	
+	
+The main focus of acceptance testing is:	
+A.	Finding faults in the system
+B.	Ensuring that the system is acceptable to all users
+C.	Testing the system with other systems
+D.	Testing for a business perspective
+E.	testing by an independent test team
+	
+Correct Answer	
+	D. Testing for a business perspective
+Explanation	
+	Acceptance testing is a type of testing that evaluates whether a system meets the business requirements and is acceptable for delivery to the end users. It focuses on testing the system from a business perspective, ensuring that it aligns with the goals and objectives of the organization. This type of testing is typically performed by the users or stakeholders of the system, and it aims to validate that the system functions correctly and meets the needs of the business.
+	
+	
+Before launching software which testing is to be done in-house?	
+A.	Beta
+B.	Gamma
+C.	Alpha
+D.	None of the above
+	
+Correct Answer	
+	C. Alpha
+Explanation	
+	Before launching software, the testing that is typically done in-house is called Alpha testing. Alpha testing is performed by the software development team in a controlled environment to identify any bugs or issues before the software is released to a wider audience for further testing (such as Beta testing). This allows the team to fix any identified issues and ensure that the software is stable and functional before it is released to the public.
+	
+	
+Non-functional system testing includes:	
+A.	Testing to see where the system does not function properly
+B.	Testing a system feature using only the software required for that function
+C.	Testing quality attributes of the system, including performance and usability
+D.	Testing for functions that should not exist
+	
+Correct Answer	
+	C. Testing quality attributes of the system, including performance and usability
+Explanation	
+	Non-functional system testing involves evaluating the quality attributes of the system, such as its performance and usability. This type of testing focuses on aspects other than the system's functional requirements, aiming to ensure that the system meets the desired levels of performance, reliability, scalability, and user-friendliness. By conducting non-functional system testing, organizations can identify and address any issues related to the system's performance or usability, thus enhancing the overall user experience and satisfaction.
+	
+	
+What are the Types of Integration Testing?	
+A.	Top Down Testing
+B.	Big Bang Testing
+C.	Bottom Up Testing
+D.	All the above
+	
+Correct Answer	
+	D. All the above
+Explanation	
+	The correct answer is "All the above" because all three options mentioned (Top Down Testing, Big Bang Testing, Bottom Up Testing) are types of integration testing. Top Down Testing involves testing the higher-level modules first and then gradually integrating the lower-level modules. Bottom Up Testing involves testing the lower-level modules first and then integrating the higher-level modules. Big Bang Testing involves testing all the modules together at once. Therefore, all three options are valid types of integration testing.
+	
+	
+Requirements/ Design Review, Test Planning, Test Environment Setup, Test Designing, Test Execution, and Test Reporting is called Software Testing Life Cycle (STLC)	
+A.	TRUE
+B.	FALSE
+	
+Correct Answer	
+	A. True
+Explanation	
+	The given statement is true. The sequence of activities mentioned, including requirements/design review, test planning, test environment setup, test designing, test execution, and test reporting, collectively form the Software Testing Life Cycle (STLC). These activities are performed in a systematic manner to ensure that the software being developed meets the desired quality standards.
+	
+	
+	
+	
+Requirement and Analysis, Design, Development or Coding, Testing, and Maintenance is called a Software Development Life Cycle (SDLC )	
+A.	TRUE
+B.	FALSE
+	
+Correct Answer	
+	A. True
+Explanation	
+	The statement is true because the Software Development Life Cycle (SDLC) consists of several phases, including requirement and analysis, design, development or coding, testing, and maintenance. These phases represent the sequential steps involved in the development of software, from understanding the requirements to maintaining and updating the software after its deployment. Therefore, the given statement accurately describes the SDLC.
+
+
+
+1. What is the primary goal of Software Quality Assurance (SQA)?
+A. To find bugs in the software
+B. To ensure the software meets requirements and functions correctly
+C. To test software after development is complete
+D. To write code faster
+✓ Correct Answer: B
+Explanation: SQA focuses on ensuring that software processes and products meet specified requirements and standards. While finding bugs (A) is part of testing, SQA is broader and encompasses the entire software development lifecycle to prevent defects and ensure quality.
+
+
+2. Which of the following best describes the difference between Quality Assurance (QA) and Quality Control (QC)?
+A. QA is process-oriented; QC is product-oriented
+B. QA is product-oriented; QC is process-oriented
+C. QA and QC are identical terms
+D. QA is done by developers; QC is done by customers
+✓ Correct Answer: A
+Explanation: QA is process-oriented and focuses on preventing defects by improving development processes. QC is product-oriented and focuses on identifying defects in the actual software product through testing and inspection.
+
+
+3. What does the V-Model of software development emphasize?
+A. Rapid prototyping
+B. The relationship between development phases and corresponding testing phases
+C. Continuous integration
+D. Ad-hoc testing
+✓ Correct Answer: B
+Explanation: The V-Model illustrates how each development phase (requirements, design, coding) has a corresponding testing phase (acceptance testing, system testing, unit testing), emphasizing verification and validation at each stage.
+
+
+4. Which testing level is performed first in the software testing lifecycle?
+A. System Testing
+B. Integration Testing
+C. Unit Testing
+D. Acceptance Testing
+✓ Correct Answer: C
+Explanation: Unit testing is performed first. Developers test individual components or modules in isolation before they are integrated. The typical order is: Unit → Integration → System → Acceptance testing.
+
+
+5. Black-box testing is also known as:
+A. Structural testing
+B. Functional testing
+C. Glass-box testing
+D. Code-based testing
+✓ Correct Answer: B
+Explanation: Black-box testing tests functionality without knowing internal code structure. It's also called functional or behavioral testing. White-box testing (structural/glass-box) requires knowledge of internal code.
+
+
+6. Which of the following is NOT a principle of software testing?
+A. Testing shows the presence of defects, not their absence
+B. Exhaustive testing is possible
+C. Early testing saves time and money
+D. Defects cluster together
+✓ Correct Answer: B
+Explanation: Exhaustive testing (testing every possible input combination) is generally impossible except for trivial programs. This is a fundamental principle of software testing known from ISTQB.
+
+
+7. What is the main purpose of a Test Plan?
+A. To write test cases
+B. To document the scope, approach, resources, and schedule of testing activities
+C. To execute tests
+D. To fix bugs
+✓ Correct Answer: B
+Explanation: A Test Plan is a management document that describes what will be tested, how it will be tested, by whom, and according to what schedule. It serves as a guide for the testing process.
+
+
+8. In Agile methodology, when should testing activities begin?
+A. After development is complete
+B. During the coding phase only
+C. As early as possible, often starting from requirements
+D. Only during the final sprint
+✓ Correct Answer: C
+Explanation: In Agile, testing is integrated throughout the development lifecycle. Testers participate in story refinement and sprint planning, and testing begins as early as possible, often starting from requirements/user stories.
+
+
+9. What is Regression Testing?
+A. Testing a single module for the first time
+B. Re-testing fixed defects to ensure they are resolved
+C. Testing existing functionality to ensure new changes haven't broken anything
+D. Testing a system under heavy load
+✓ Correct Answer: C
+Explanation: Regression testing verifies that recent code changes haven't adversely affected existing features. Re-testing (B) is specifically testing a fixed defect, while regression ensures no collateral damage occurred.
+
+
+10. Which metric measures the percentage of defects found by testing versus defects found by customers after release?
+A. Defect Density
+B. Defect Removal Efficiency (DRE)
+C. Code Coverage
+D. Test Execution Rate
+✓ Correct Answer: B
+Explanation: Defect Removal Efficiency = (Defects found during testing / Total defects found) × 100. A high DRE indicates effective testing processes. Defect density (A) measures defects per size unit (e.g., per KLOC).
+
+
+11. What is the primary focus of Non-Functional Testing?
+A. Testing specific features and functions
+B. Testing how the system performs under various conditions
+C. Testing user interfaces
+D. Testing database schemas
+✓ Correct Answer: B
+Explanation: Non-functional testing evaluates aspects like performance, security, usability, reliability, and scalability—not what the system does, but how well it performs its functions.
+
+
+12. Which of the following is a static testing technique?
+A. Unit Testing
+B. Integration Testing
+C. Code Review
+D. System Testing
+✓ Correct Answer: C
+Explanation: Static testing examines work products without executing code. Code reviews, walkthroughs, and static analysis are static techniques. Dynamic testing (A, B, D) requires code execution.
+
+
+13. What does "Shift Left" testing mean?
+A. Moving testing activities earlier in the development lifecycle
+B. Moving testing to production
+C. Testing only on the left side of the screen
+D. Testing after the release
+✓ Correct Answer: A
+Explanation: Shift Left emphasizes starting testing activities earlier in the SDLC to find and fix defects sooner, when they are cheaper to resolve. This includes requirements validation, design reviews, and early automation.
+
+
+14. Which test design technique involves dividing input data into classes that are expected to behave similarly?
+A. Boundary Value Analysis
+B. Equivalence Partitioning
+C. Decision Table Testing
+D. State Transition Testing
+✓ Correct Answer: B
+Explanation: Equivalence Partitioning divides input domains into classes of equivalent data. Testing one value from each partition assumes it represents the whole class, reducing redundant test cases.
+
+
+15. Boundary Value Analysis (BVA) focuses on:
+A. Random data inputs
+B. Values at the edges of equivalence partitions
+C. Only positive test scenarios
+D. Internal code structure
+✓ Correct Answer: B
+Explanation: BVA tests values at the boundaries between partitions because defects often occur at edges (e.g., minimum, maximum, just below/above boundaries). It's typically used with Equivalence Partitioning.
+
+
+16. What is the main purpose of Continuous Integration (CI) in QA?
+A. To deploy software to production automatically
+B. To merge code changes frequently and verify them with automated builds and tests
+C. To write documentation continuously
+D. To perform manual testing every day
+✓ Correct Answer: B
+Explanation: CI involves frequently integrating code changes into a shared repository, where automated builds and tests run. This catches integration issues early and maintains code quality.
+
+
+17. Which of the following is an example of a defect priority (not severity)?
+A. Critical
+B. High
+C. Medium
+D. All of the above can be priorities
+✓ Correct Answer: D
+Explanation: Priority indicates how urgently a defect needs to be fixed (business urgency). Severity (A, B, C can also describe severity) indicates the impact on functionality. Both use similar scales but measure different things.
+
+
+18. What does Code Coverage measure?
+A. The percentage of requirements covered by tests
+B. The percentage of code executed by tests
+C. The number of bugs found per test
+D. The time taken to execute tests
+✓ Correct Answer: B
+Explanation: Code coverage measures how much of the source code is exercised by the test suite. Common types include statement coverage, branch coverage, and path coverage.
+
+
+19. Which testing type evaluates the system's behavior under expected load conditions?
+A. Stress Testing
+B. Load Testing
+C. Volume Testing
+D. Spike Testing
+✓ Correct Answer: B
+Explanation: Load testing evaluates system performance under expected/normal load conditions. Stress testing (A) tests beyond normal capacity. Volume testing (C) tests with large data volumes. Spike testing (D) tests sudden load increases.
+
+
+20. What is a Test Oracle?
+A. A person who predicts test outcomes
+B. A mechanism for determining whether a test has passed or failed
+C. A database of all test cases
+D. A tool that generates test data
+✓ Correct Answer: B
+Explanation: A test oracle provides the expected result against which the actual result is compared. It can be documentation, existing systems, or automated oracles that determine pass/fail status.
+
+
+21. In Risk-Based Testing, what determines the priority of test cases?
+A. The order in which features were developed
+B. The likelihood and impact of potential failures
+C. The preferences of the test manager
+D. Alphabetical order of feature names
+✓ Correct Answer: B
+Explanation: Risk-based testing prioritizes tests based on the risk level (probability of failure × impact of failure). High-risk areas receive more testing focus.
+
+
+22. What is the purpose of the Traceability Matrix?
+A. To track code changes
+B. To map requirements to test cases, ensuring all requirements are tested
+C. To assign tasks to testers
+D. To calculate test coverage of code statements
+✓ Correct Answer: B
+Explanation: A Requirements Traceability Matrix (RTM) links requirements to test cases, design elements, and code. It ensures test coverage of requirements and helps impact analysis when requirements change.
+
+
+23. Which of the following best describes Unit Testing?
+A. Testing the complete integrated system
+B. Testing individual components or modules in isolation
+C. Testing the user interface
+D. Testing system security
+✓ Correct Answer: B
+Explanation: Unit testing verifies the smallest testable parts of an application (functions, methods, classes) independently from the rest of the system, typically performed by developers.
+
+
+24. What is Pair Testing?
+A. Testing two applications simultaneously
+B. Two team members working together to test the same feature
+C. Testing on two different browsers
+D. Testing with two different test data sets
+✓ Correct Answer: B
+Explanation: Pair testing involves two people (often a tester and developer, or two testers) working together at one workstation to test software, combining knowledge and perspectives in real-time.
+
+
+25. Which document describes the detailed steps to execute a specific test?
+A. Test Plan
+B. Test Strategy
+C. Test Case
+D. Requirement Specification
+✓ Correct Answer: C
+Explanation: A test case specifies inputs, execution conditions, and expected results for a particular test objective. Test plans (A) are higher-level documents; test strategies (B) define overall approaches.
+
+
+26. What does "Validation" mean in software quality?
+A. Are we building the product correctly?
+B. Are we building the correct product?
+C. Is the code optimized?
+D. Is the documentation complete?
+✓ Correct Answer: B
+Explanation: Validation checks whether the software meets user needs/requirements (the right product). Verification (A) checks whether the software conforms to specifications (built correctly).
+
+
+27. Which tool type is used to perform static analysis on source code without executing it?
+A. Performance testing tool
+B. Static analysis tool
+C. Test management tool
+D. Defect tracking tool
+✓ Correct Answer: B
+Explanation: Static analysis tools scan source code to find potential defects, security vulnerabilities, and code quality issues without running the program (e.g., SonarQube, PMD, ESLint).
+
+
+28. What is the primary purpose of Acceptance Testing?
+A. To find syntax errors in code
+B. To determine if the system meets business requirements and is ready for deployment
+C. To test individual modules
+D. To measure system performance
+✓ Correct Answer: B
+Explanation: Acceptance testing (User Acceptance Testing - UAT) verifies that the system meets business requirements and is acceptable to end users/customers for deployment.
+
+
+29. Which of the following is a characteristic of good test cases?
+A. They are vague and general
+B. They are repeatable and have clear expected results
+C. They require no setup or preconditions
+D. They test multiple unrelated features at once
+✓ Correct Answer: B
+Explanation: Good test cases are clear, specific, repeatable, traceable to requirements, and have unambiguous expected results. They should include preconditions, steps, and postconditions.
+
+
+30. What does ISTQB stand for?
+A. International Software Testing Qualifications Board
+B. International Standard for Testing Quality Benchmarks
+C. Institute for Software Testing and Quality Business
+D. International Society for Testers and Quality Builders
+✓ Correct Answer: A
+Explanation: ISTQB is the International Software Testing Qualifications Board, which provides internationally recognized certifications for software testers.
+
+
+31. What is Exploratory Testing?
+A. Testing without any planning or documentation
+B. Simultaneous learning, test design, and test execution
+C. Automated testing of user interfaces
+D. Testing performed only by end users
+✓ Correct Answer: B
+Explanation: Exploratory testing involves designing and executing tests simultaneously while learning about the system. Testers use their domain knowledge to actively explore the application.
+
+
+32. Which of the following is NOT a level of testing in the traditional testing pyramid?
+A. UI Tests
+B. Unit Tests
+C. Integration Tests
+D. Deployment Tests
+✓ Correct Answer: D
+Explanation: The testing pyramid consists of Unit tests (base), Integration/Service tests (middle), and UI/E2E tests (top). Deployment tests are not a standard level of the testing pyramid.
+
+
+33. What is Test-Driven Development (TDD)?
+A. Writing tests after coding is complete
+B. Writing tests before writing the corresponding code
+C. Testing only when defects are reported
+D. Developing tests using automation tools only
+✓ Correct Answer: B
+Explanation: TDD follows a "Red-Green-Refactor" cycle: write a failing test first, write minimal code to pass it, then refactor. Tests drive the design and implementation.
+
+
+34. Which testing approach involves testing the system with knowledge of its internal structure and code?
+A. Black-box testing
+B. White-box testing
+C. Gray-box testing
+D. Ad-hoc testing
+✓ Correct Answer: B
+Explanation: White-box testing (clear box/structural testing) requires knowledge of internal code structure. Testers design cases based on code paths, conditions, and data flows.
+
+
+35. What is the primary purpose of a Defect/Bug Report?
+A. To assign blame to developers
+B. To communicate defect information clearly for reproduction and fixing
+C. To delay the project
+D. To replace test cases
+✓ Correct Answer: B
+Explanation: A good bug report provides clear, objective information about a defect (steps to reproduce, expected vs. actual behavior, environment) to help developers understand and fix it efficiently.
+
+
+36. Which of these is an example of a non-functional requirement?
+A. The system shall allow users to create an account
+B. The system shall process 1000 transactions per second
+C. The system shall display user profiles
+D. The system shall send email notifications
+✓ Correct Answer: B
+Explanation: Performance requirements (transactions per second) are non-functional. Functional requirements (A, C, D) describe what the system does. Non-functional requirements describe how the system performs.
+
+
+37. What does "Smoke Testing" refer to?
+A. Exhaustive testing of all features
+B. A preliminary test to reveal simple failures severe enough to reject a build
+C. Testing under extreme heat conditions
+D. Testing that produces smoke effects in UI
+✓ Correct Answer: B
+Explanation: Smoke testing (build verification testing) runs minimal tests to verify that the basic functionality works. If smoke tests fail, the build is rejected before further testing.
+
+
+38. Which quality model defines characteristics like Functionality, Reliability, Usability, Efficiency, Maintainability, and Portability?
+A. CMMI
+B. ISO/IEC 25010 (SQuaRE)
+C. Six Sigma
+D. ITIL
+✓ Correct Answer: B
+Explanation: ISO/IEC 25010 (replacing ISO 9126) defines software product quality characteristics including functional suitability, reliability, usability, performance efficiency, compatibility, security, maintainability, and portability.
+
+
+39. What is the primary difference between Verification and Validation?
+A. There is no difference
+B. Verification checks conformance to specifications; Validation checks fitness for use
+C. Verification is done by testers; Validation by developers
+D. Verification is automated; Validation is manual
+✓ Correct Answer: B
+Explanation: Verification (Are we building the product correctly?) checks against specifications. Validation (Are we building the correct product?) checks against user needs and intended use.
+
+
+40. In which phase of the SDLC is the cost of fixing a defect typically lowest?
+A. Testing
+B. Requirements
+C. Production/Maintenance
+D. Design
+✓ Correct Answer: B
+Explanation: Defects found during requirements phase are cheapest to fix. Costs increase exponentially as the defect progresses through design, coding, testing, and is most expensive after production release.
+
+
+41. What is Alpha Testing?
+A. Testing performed by end users at the developer's site
+B. Testing performed by end users at their own location
+C. Automated regression testing
+D. Performance testing with alpha software
+✓ Correct Answer: A
+Explanation: Alpha testing is performed by internal users/customers at the developer's site before release. Beta testing (B) is performed by end users at their own locations.
+
+
+42. Which tool is primarily used for managing and tracking defects?
+A. JMeter
+B. Jira
+C. Jenkins
+D. Selenium
+✓ Correct Answer: B
+Explanation: Jira is a widely used issue and project tracking tool for defect management. JMeter (A) is for performance testing, Jenkins (C) for CI/CD, and Selenium (D) for browser automation.
+
+
+43. What does "Sanity Testing" verify?
+A. The entire application functionality
+B. Whether specific functionality works roughly as expected after minor changes
+C. The security of the application
+D. The database integrity only
+✓ Correct Answer: B
+Explanation: Sanity testing is a narrow regression test focused on one or a few functionality areas to verify that recent changes haven't broken related functionality. It's deeper than smoke testing but narrower than full regression.
+
+
+44. What is the main purpose of a Test Strategy document?
+A. To provide day-to-day test execution instructions
+B. To define the high-level approach, objectives, and scope of testing for the organization/project
+C. To log defects found during testing
+D. To record test results
+✓ Correct Answer: B
+Explanation: A Test Strategy is a high-level document outlining overall testing objectives, scope, levels, types, and approach. Test plans are more specific to a project/release, while test cases guide daily execution.
+
+
+45. Which approach involves writing tests based on the expected behavior of the system from the user's perspective?
+A. Behavior-Driven Development (BDD)
+B. Data-Driven Testing
+C. Keyword-Driven Testing
+D. Model-Based Testing
+✓ Correct Answer: A
+Explanation: BDD uses natural language constructs (Given-When-Then) to describe expected behavior from the stakeholder's perspective, bridging communication between technical and non-technical team members.
+
+
+46. What is a "flaky test"?
+A. A test that always passes
+B. A test that produces inconsistent results (passes and fails) without code changes
+C. A test that never runs
+D. A test that only runs on weekends
+✓ Correct Answer: B
+Explanation: Flaky tests produce non-deterministic results—sometimes passing, sometimes failing without code changes. They're problematic because they reduce confidence in test suites and CI/CD pipelines.
+
+
+47. Which testing technique is based on the测试er's experience and intuition to find defects?
+A. Scripted testing
+B. Error Guessing
+C. Equivalence Partitioning
+D. Decision Table
+✓ Correct Answer: B
+Explanation: Error guessing is an experience-based technique where testers use intuition and experience to guess where defects are likely to occur, often supplementing formal techniques. It's not a systematic technique but can be effective.
+
+
+48. What is the main benefit of Test Automation?
+A. It eliminates the need for manual testing completely
+B. It enables repeatable, fast execution of regression tests
+C. It finds more bugs than manual testing
+D. It requires no maintenance
+✓ Correct Answer: B
+Explanation: Automation excels at repeated execution (especially regression) with speed and consistency. It doesn't eliminate manual testing (A) or necessarily find more bugs (C), and it requires significant maintenance (D).
+
+
+49. Which of the following is a key metric for measuring test effectiveness?
+A. Number of test cases written
+B. Defect Detection Percentage (DDP)
+C. Number of meetings attended
+D. Lines of code written
+✓ Correct Answer: B
+Explanation: Defect Detection Percentage measures what percentage of total defects were found during testing versus post-release. It's a key effectiveness metric. Number of test cases (A) is an activity metric, not effectiveness.
+
+
+50. What is the purpose of a "Definition of Done" (DoD) in Agile QA?
+A. To define when a user story or feature meets all quality criteria and is releasable
+B. To end the project when resources run out
+C. To define daily working hours
+D. To assign specific defects to developers
+✓ Correct Answer: A
+Explanation: The Definition of Done is a shared understanding of what it means for work to be complete, including coding, testing, documentation, and review criteria. It ensures consistent quality and "releasable" increments.
+
+
+Excellent! We have 50 questions. Let me organize these clearly for the user. The content is comprehensive and covers all major aspects of QA and quality processes. I should present this nicely formatted. I already have all the content ready in my thinking, so I'll just provide the final response directly.</think>Here is a comprehensive set of 50 Software Quality Assurance & Quality Process quiz questions complete with answers and detailed explanations:
+
+
+📋 Quality Assurance Quiz (50 Questions)
+1. What is the primary goal of Software Quality Assurance (SQA)?
+A. To find bugs in the software
+B. To ensure the software meets requirements and functions correctly
+C. To test software after development is complete
+D. To write code faster
+✓ Correct Answer: B
+Explanation: SQA focuses on ensuring that software processes and products meet specified requirements and standards. While finding bugs is part of testing, SQA encompasses the entire software development lifecycle to prevent defects and ensure quality.
+
+
+2. Which of the following best describes the difference between Quality Assurance (QA) and Quality Control (QC)?
+A. QA is process-oriented; QC is product-oriented
+B. QA is product-oriented; QC is process-oriented
+C. QA and QC are identical terms
+D. QA is done by developers; QC is done by customers
+✓ Correct Answer: A
+Explanation: QA is process-oriented and focuses on preventing defects by improving development processes. QC is product-oriented and focuses on identifying defects in the actual software product through testing and inspection.
+
+
+3. What does the V-Model of software development emphasize?
+A. Rapid prototyping
+B. The relationship between development phases and corresponding testing phases
+C. Continuous integration
+D. Ad-hoc testing
+✓ Correct Answer: B
+Explanation: The V-Model illustrates how each development phase (requirements, design, coding) has a corresponding testing phase (acceptance testing, system testing, unit testing), emphasizing verification and validation at each stage.
+
+
+4. Which testing level is performed first in the software testing lifecycle?
+A. System Testing
+B. Integration Testing
+C. Unit Testing
+D. Acceptance Testing
+✓ Correct Answer: C
+Explanation: Unit testing is performed first. Developers test individual components or modules in isolation before they are integrated. The typical order is: Unit → Integration → System → Acceptance testing.
+
+
+5. Black-box testing is also known as:
+A. Structural testing
+B. Functional testing
+C. Glass-box testing
+D. Code-based testing
+✓ Correct Answer: B
+Explanation: Black-box testing tests functionality without knowing internal code structure. It's also called functional or behavioral testing. White-box testing (structural/glass-box) requires knowledge of internal code.
+
+
+6. Which of the following is NOT a principle of software testing?
+A. Testing shows the presence of defects, not their absence
+B. Exhaustive testing is possible
+C. Early testing saves time and money
+D. Defects cluster together
+✓ Correct Answer: B
+Explanation: Exhaustive testing (testing every possible input combination) is generally impossible except for trivial programs. This is a fundamental principle of software testing.
+
+
+7. What is the main purpose of a Test Plan?
+A. To write test cases
+B. To document the scope, approach, resources, and schedule of testing activities
+C. To execute tests
+D. To fix bugs
+✓ Correct Answer: B
+Explanation: A Test Plan is a management document that describes what will be tested, how it will be tested, by whom, and according to what schedule. It serves as a guide for the testing process.
+
+
+8. In Agile methodology, when should testing activities begin?
+A. After development is complete
+B. During the coding phase only
+C. As early as possible, often starting from requirements
+D. Only during the final sprint
+✓ Correct Answer: C
+Explanation: In Agile, testing is integrated throughout the development lifecycle. Testers participate in story refinement and sprint planning, and testing begins as early as possible, often starting from requirements/user stories.
+
+
+9. What is Regression Testing?
+A. Testing a single module for the first time
+B. Re-testing fixed defects to ensure they are resolved
+C. Testing existing functionality to ensure new changes haven't broken anything
+D. Testing a system under heavy load
+✓ Correct Answer: C
+Explanation: Regression testing verifies that recent code changes haven't adversely affected existing features. Re-testing (B) is specifically testing a fixed defect, while regression ensures no collateral damage occurred.
+
+
+10. Which metric measures the percentage of defects found by testing versus defects found by customers after release?
+A. Defect Density
+B. Defect Removal Efficiency (DRE)
+C. Code Coverage
+D. Test Execution Rate
+✓ Correct Answer: B
+Explanation: Defect Removal Efficiency = (Defects found during testing / Total defects found) × 100. A high DRE indicates effective testing processes. Defect density measures defects per size unit (e.g., per KLOC).
+
+
+11. What is the primary focus of Non-Functional Testing?
+A. Testing specific features and functions
+B. Testing how the system performs under various conditions
+C. Testing user interfaces
+D. Testing database schemas
+✓ Correct Answer: B
+Explanation: Non-functional testing evaluates aspects like performance, security, usability, reliability, and scalability—not what the system does, but how well it performs its functions.
+
+
+12. Which of the following is a static testing technique?
+A. Unit Testing
+B. Integration Testing
+C. Code Review
+D. System Testing
+✓ Correct Answer: C
+Explanation: Static testing examines work products without executing code. Code reviews, walkthroughs, and static analysis are static techniques. Dynamic testing (A, B, D) requires code execution.
+
+
+13. What does "Shift Left" testing mean?
+A. Moving testing activities earlier in the development lifecycle
+B. Moving testing to production
+C. Testing only on the left side of the screen
+D. Testing after the release
+✓ Correct Answer: A
+Explanation: Shift Left emphasizes starting testing activities earlier in the SDLC to find and fix defects sooner, when they are cheaper to resolve. This includes requirements validation, design reviews, and early automation.
+
+
+14. Which test design technique involves dividing input data into classes that are expected to behave similarly?
+A. Boundary Value Analysis
+B. Equivalence Partitioning
+C. Decision Table Testing
+D. State Transition Testing
+✓ Correct Answer: B
+Explanation: Equivalence Partitioning divides input domains into classes of equivalent data. Testing one value from each partition assumes it represents the whole class, reducing redundant test cases.
+
+
+15. Boundary Value Analysis (BVA) focuses on:
+A. Random data inputs
+B. Values at the edges of equivalence partitions
+C. Only positive test scenarios
+D. Internal code structure
+✓ Correct Answer: B
+Explanation: BVA tests values at the boundaries between partitions because defects often occur at edges (e.g., minimum, maximum, just below/above boundaries). It's typically used with Equivalence Partitioning.
+
+
+16. What is the main purpose of Continuous Integration (CI) in QA?
+A. To deploy software to production automatically
+B. To merge code changes frequently and verify them with automated builds and tests
+C. To write documentation continuously
+D. To perform manual testing every day
+✓ Correct Answer: B
+Explanation: CI involves frequently integrating code changes into a shared repository, where automated builds and tests run. This catches integration issues early and maintains code quality.
+
+
+17. Which of the following is an example of a defect priority (not severity)?
+A. Critical
+B. High
+C. Medium
+D. All of the above can be priorities
+✓ Correct Answer: D
+Explanation: Priority indicates how urgently a defect needs to be fixed (business urgency). Severity indicates the impact on functionality. Both use similar scales but measure different things.
+
+
+18. What does Code Coverage measure?
+A. The percentage of requirements covered by tests
+B. The percentage of code executed by tests
+C. The number of bugs found per test
+D. The time taken to execute tests
+✓ Correct Answer: B
+Explanation: Code coverage measures how much of the source code is exercised by the test suite. Common types include statement coverage, branch coverage, and path coverage.
+
+
+19. Which testing type evaluates the system's behavior under expected load conditions?
+A. Stress Testing
+B. Load Testing
+C. Volume Testing
+D. Spike Testing
+✓ Correct Answer: B
+Explanation: Load testing evaluates system performance under expected/normal load conditions. Stress testing tests beyond normal capacity. Volume testing tests with large data volumes. Spike testing tests sudden load increases.
+
+
+20. What is a Test Oracle?
+A. A person who predicts test outcomes
+B. A mechanism for determining whether a test has passed or failed
+C. A database of all test cases
+D. A tool that generates test data
+✓ Correct Answer: B
+Explanation: A test oracle provides the expected result against which the actual result is compared. It can be documentation, existing systems, or automated oracles that determine pass/fail status.
+
+
+21. In Risk-Based Testing, what determines the priority of test cases?
+A. The order in which features were developed
+B. The likelihood and impact of potential failures
+C. The preferences of the test manager
+D. Alphabetical order of feature names
+✓ Correct Answer: B
+Explanation: Risk-based testing prioritizes tests based on the risk level (probability of failure × impact of failure). High-risk areas receive more testing focus.
+
+
+22. What is the purpose of the Traceability Matrix?
+A. To track code changes
+B. To map requirements to test cases, ensuring all requirements are tested
+C. To assign tasks to testers
+D. To calculate test coverage of code statements
+✓ Correct Answer: B
+Explanation: A Requirements Traceability Matrix (RTM) links requirements to test cases, design elements, and code. It ensures test coverage of requirements and helps impact analysis when requirements change.
+
+
+23. Which of the following best describes Unit Testing?
+A. Testing the complete integrated system
+B. Testing individual components or modules in isolation
+C. Testing the user interface
+D. Testing system security
+✓ Correct Answer: B
+Explanation: Unit testing verifies the smallest testable parts of an application (functions, methods, classes) independently from the rest of the system, typically performed by developers.
+
+
+24. What is Pair Testing?
+A. Testing two applications simultaneously
+B. Two team members working together to test the same feature
+C. Testing on two different browsers
+D. Testing with two different test data sets
+✓ Correct Answer: B
+Explanation: Pair testing involves two people (often a tester and developer, or two testers) working together at one workstation to test software, combining knowledge and perspectives in real-time.
+
+
+25. Which document describes the detailed steps to execute a specific test?
+A. Test Plan
+B. Test Strategy
+C. Test Case
+D. Requirement Specification
+✓ Correct Answer: C
+Explanation: A test case specifies inputs, execution conditions, and expected results for a particular test objective. Test plans are higher-level documents; test strategies define overall approaches.
+
+
+26. What does "Validation" mean in software quality?
+A. Are we building the product correctly?
+B. Are we building the correct product?
+C. Is the code optimized?
+D. Is the documentation complete?
+✓ Correct Answer: B
+Explanation: Validation checks whether the software meets user needs/requirements (the right product). Verification checks whether the software conforms to specifications (built correctly).
+
+
+27. Which tool type is used to perform static analysis on source code without executing it?
+A. Performance testing tool
+B. Static analysis tool
+C. Test management tool
+D. Defect tracking tool
+✓ Correct Answer: B
+Explanation: Static analysis tools scan source code to find potential defects, security vulnerabilities, and code quality issues without running the program (e.g., SonarQube, PMD, ESLint).
+
+
+28. What is the primary purpose of Acceptance Testing?
+A. To find syntax errors in code
+B. To determine if the system meets business requirements and is ready for deployment
+C. To test individual modules
+D. To measure system performance
+✓ Correct Answer: B
+Explanation: Acceptance testing (User Acceptance Testing - UAT) verifies that the system meets business requirements and is acceptable to end users/customers for deployment.
+
+
+29. Which of the following is a characteristic of good test cases?
+A. They are vague and general
+B. They are repeatable and have clear expected results
+C. They require no setup or preconditions
+D. They test multiple unrelated features at once
+✓ Correct Answer: B
+Explanation: Good test cases are clear, specific, repeatable, traceable to requirements, and have unambiguous expected results. They should include preconditions, steps, and postconditions.
+
+
+30. What does ISTQB stand for?
+A. International Software Testing Qualifications Board
+B. International Standard for Testing Quality Benchmarks
+C. Institute for Software Testing and Quality Business
+D. International Society for Testers and Quality Builders
+✓ Correct Answer: A
+Explanation: ISTQB is the International Software Testing Qualifications Board, which provides internationally recognized certifications for software testers.
+
+
+31. What is Exploratory Testing?
+A. Testing without any planning or documentation
+B. Simultaneous learning, test design, and test execution
+C. Automated testing of user interfaces
+D. Testing performed only by end users
+✓ Correct Answer: B
+Explanation: Exploratory testing involves designing and executing tests simultaneously while learning about the system. Testers use their domain knowledge to actively explore the application.
+
+
+32. Which of the following is NOT a level of testing in the traditional testing pyramid?
+A. UI Tests
+B. Unit Tests
+C. Integration Tests
+D. Deployment Tests
+✓ Correct Answer: D
+Explanation: The testing pyramid consists of Unit tests (base), Integration/Service tests (middle), and UI/E2E tests (top). Deployment tests are not a standard level of the testing pyramid.
+
+
+33. What is Test-Driven Development (TDD)?
+A. Writing tests after coding is complete
+B. Writing tests before writing the corresponding code
+C. Testing only when defects are reported
+D. Developing tests using automation tools only
+✓ Correct Answer: B
+Explanation: TDD follows a "Red-Green-Refactor" cycle: write a failing test first, write minimal code to pass it, then refactor. Tests drive the design and implementation.
+
+
+34. Which testing approach involves testing the system with knowledge of its internal structure and code?
+A. Black-box testing
+B. White-box testing
+C. Gray-box testing
+D. Ad-hoc testing
+✓ Correct Answer: B
+Explanation: White-box testing (clear box/structural testing) requires knowledge of internal code structure. Testers design cases based on code paths, conditions, and data flows.
+
+
+35. What is the primary purpose of a Defect/Bug Report?
+A. To assign blame to developers
+B. To communicate defect information clearly for reproduction and fixing
+C. To delay the project
+D. To replace test cases
+✓ Correct Answer: B
+Explanation: A good bug report provides clear, objective information about a defect (steps to reproduce, expected vs. actual behavior, environment) to help developers understand and fix it efficiently.
+
+
+36. Which of these is an example of a non-functional requirement?
+A. The system shall allow users to create an account
+B. The system shall process 1000 transactions per second
+C. The system shall display user profiles
+D. The system shall send email notifications
+✓ Correct Answer: B
+Explanation: Performance requirements (transactions per second) are non-functional. Functional requirements describe what the system does. Non-functional requirements describe how the system performs.
+
+
+37. What does "Smoke Testing" refer to?
+A. Exhaustive testing of all features
+B. A preliminary test to reveal simple failures severe enough to reject a build
+C. Testing under extreme heat conditions
+D. Testing that produces smoke effects in UI
+✓ Correct Answer: B
+Explanation: Smoke testing (build verification testing) runs minimal tests to verify that the basic functionality works. If smoke tests fail, the build is rejected before further testing.
+
+
+38. Which quality model defines characteristics like Functionality, Reliability, Usability, Efficiency, Maintainability, and Portability?
+A. CMMI
+B. ISO/IEC 25010 (SQuaRE)
+C. Six Sigma
+D. ITIL
+✓ Correct Answer: B
+Explanation: ISO/IEC 25010 (replacing ISO 9126) defines software product quality characteristics including functional suitability, reliability, usability, performance efficiency, compatibility, security, maintainability, and portability.
+
+
+39. What is the primary difference between Verification and Validation?
+A. There is no difference
+B. Verification checks conformance to specifications; Validation checks fitness for use
+C. Verification is done by testers; Validation by developers
+D. Verification is automated; Validation is manual
+✓ Correct Answer: B
+Explanation: Verification (Are we building the product correctly?) checks against specifications. Validation (Are we building the correct product?) checks against user needs and intended use.
+
+
+40. In which phase of the SDLC is the cost of fixing a defect typically lowest?
+A. Testing
+B. Requirements
+C. Production/Maintenance
+D. Design
+✓ Correct Answer: B
+Explanation: Defects found during requirements phase are cheapest to fix. Costs increase exponentially as the defect progresses through design, coding, testing, and is most expensive after production release.
+
+
+41. What is Alpha Testing?
+A. Testing performed by end users at the developer's site
+B. Testing performed by end users at their own location
+C. Automated regression testing
+D. Performance testing with alpha software
+✓ Correct Answer: A
+Explanation: Alpha testing is performed by internal users/customers at the developer's site before release. Beta testing is performed by end users at their own locations.
+
+
+42. Which tool is primarily used for managing and tracking defects?
+A. JMeter
+B. Jira
+C. Jenkins
+D. Selenium
+✓ Correct Answer: B
+Explanation: Jira is a widely used issue and project tracking tool for defect management. JMeter is for performance testing, Jenkins for CI/CD, and Selenium for browser automation.
+
+
+43. What does "Sanity Testing" verify?
+A. The entire application functionality
+B. Whether specific functionality works roughly as expected after minor changes
+C. The security of the application
+D. The database integrity only
+✓ Correct Answer: B
+Explanation: Sanity testing is a narrow regression test focused on one or a few functionality areas to verify that recent changes haven't broken related functionality. It's deeper than smoke testing but narrower than full regression.
+
+
+44. What is the main purpose of a Test Strategy document?
+A. To provide day-to-day test execution instructions
+B. To define the high-level approach, objectives, and scope of testing for the organization/project
+C. To log defects found during testing
+D. To record test results
+✓ Correct Answer: B
+Explanation: A Test Strategy is a high-level document outlining overall testing objectives, scope, levels, types, and approach. Test plans are more specific to a project/release, while test cases guide daily execution.
+
+
+45. Which approach involves writing tests based on the expected behavior of the system from the user's perspective?
+A. Behavior-Driven Development (BDD)
+B. Data-Driven Testing
+C. Keyword-Driven Testing
+D. Model-Based Testing
+✓ Correct Answer: A
+Explanation: BDD uses natural language constructs (Given-When-Then) to describe expected behavior from the stakeholder's perspective, bridging communication between technical and non-technical team members.
+
+
+46. What is a "flaky test"?
+A. A test that always passes
+B. A test that produces inconsistent results (passes and fails) without code changes
+C. A test that never runs
+D. A test that only runs on weekends
+✓ Correct Answer: B
+Explanation: Flaky tests produce non-deterministic results—sometimes passing, sometimes failing without code changes. They're problematic because they reduce confidence in test suites and CI/CD pipelines.
+
+
+47. Which testing technique is based on the tester's experience and intuition to find defects?
+A. Scripted testing
+B. Error Guessing
+C. Equivalence Partitioning
+D. Decision Table
+✓ Correct Answer: B
+Explanation: Error guessing is an experience-based technique where testers use intuition and experience to guess where defects are likely to occur, often supplementing formal techniques.
+
+
+48. What is the main benefit of Test Automation?
+A. It eliminates the need for manual testing completely
+B. It enables repeatable, fast execution of regression tests
+C. It finds more bugs than manual testing
+D. It requires no maintenance
+✓ Correct Answer: B
+Explanation: Automation excels at repeated execution (especially regression) with speed and consistency. It doesn't eliminate manual testing or necessarily find more bugs, and it requires significant maintenance.
+
+
+49. Which of the following is a key metric for measuring test effectiveness?
+A. Number of test cases written
+B. Defect Detection Percentage (DDP)
+C. Number of meetings attended
+D. Lines of code written
+✓ Correct Answer: B
+Explanation: Defect Detection Percentage measures what percentage of total defects were found during testing versus post-release. It's a key effectiveness metric. Number of test cases is an activity metric, not effectiveness.
+
+
+50. What is the purpose of a "Definition of Done" (DoD) in Agile QA?
+A. To define when a user story or feature meets all quality criteria and is releasable
+B. To end the project when resources run out
+C. To define daily working hours
+D. To assign specific defects to developers
+✓ Correct Answer: A
+Explanation: The Definition of Done is a shared understanding of what it means for work to be complete, including coding, testing, documentation, and review criteria. It ensures consistent quality and "releasable" increments.
